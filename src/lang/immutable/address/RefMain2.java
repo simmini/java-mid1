@@ -15,3 +15,4 @@ public class RefMain2 {
         System.out.println("b = " + b);
     }
 }
+
