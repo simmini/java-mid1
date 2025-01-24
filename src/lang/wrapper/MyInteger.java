@@ -1,4 +1,4 @@
-package lang.string.wrapper;
+package lang.wrapper;
 
 public class MyInteger {
     private int value;
